@@ -73,14 +73,14 @@ HAY
 
 ## 	Các trạng thái của domain
 
-	1. Đăng Ký (Registered): Tên miền đã được đăng ký thành công và đang hoạt động. Chủ sở hữu tên miền có quyền kiểm soát và quản lý tên miền.
-	1. Chờ Kích Hoạt (Pending Activation):  Tên miền vừa mới được đăng ký hoặc thay đổi và đang chờ kích hoạt hoàn toàn.
-	1. Đang Xác Thực (Pending Verification): Tên miền đang chờ xác thực từ chủ sở hữu hoặc quản trị viên. Điều này thường xảy ra khi có thay đổi quan trọng như chuyển tên miền hoặc thay đổi thông tin liên hệ.
-	1. Đã Đăng Ký (Active): Tên miền đã được đăng ký và kích hoạt, có thể sử dụng bình thường.
-	1.  Đang Đợi Gia Hạn (Pending Renewal): Tên miền sắp hết hạn và đang chờ gia hạn.
-	1. Hết Hạn (Expired): Tên miền đã hết hạn và không được gia hạn trong thời gian quy định.
-	1. Đang Trong Thời Gian Gia Hạn (Grace Period): Tên miền đã hết hạn nhưng đang trong thời gian gia hạn. Chủ sở hữu có thể gia hạn tên miền trong khoảng thời gian này mà không bị mất quyền sở hữu.
-	1. Đang Trong Thời Gian Chờ Xóa (Redemption Period): Tên miền đã hết hạn và đang trong thời gian chờ xóa, thường là khoảng 30 ngày sau thời gian gia hạn. Trong giai đoạn này, tên miền có thể phục hồi nhưng sẽ phải trả thêm phí phục hồi.
+1. Đăng Ký (Registered): Tên miền đã được đăng ký thành công và đang hoạt động. Chủ sở hữu tên miền có quyền kiểm soát và quản lý tên miền.
+1. Chờ Kích Hoạt (Pending Activation):  Tên miền vừa mới được đăng ký hoặc thay đổi và đang chờ kích hoạt hoàn toàn.
+1. Đang Xác Thực (Pending Verification): Tên miền đang chờ xác thực từ chủ sở hữu hoặc quản trị viên. Điều này thường xảy ra khi có thay đổi quan trọng như chuyển tên miền hoặc thay đổi thông tin liên hệ.
+1. Đã Đăng Ký (Activmde): Tên miền đã được đăng ký và kích hoạt, có thể sử dụng bình thường.
+1.  Đang Đợi Gia Hạn (Pending Renewal): Tên miền sắp hết hạn và đang chờ gia hạn.
+1. Hết Hạn (Expired): Tên miền đã hết hạn và không được gia hạn trong thời gian quy định.
+1. Đang Trong Thời Gian Gia Hạn (Grace Period): Tên miền đã hết hạn nhưng đang trong thời gian gia hạn. Chủ sở hữu có thể gia hạn tên miền trong khoảng thời gian này mà không bị mất quyền sở hữu.
+1. Đang Trong Thời Gian Chờ Xóa (Redemption Period): Tên miền đã hết hạn và đang trong thời gian chờ xóa, thường là khoảng 30 ngày sau thời gian gia hạn. Trong giai đoạn này, tên miền có thể phục hồi nhưng sẽ phải trả thêm phí phục hồi.
 
 ## Subdomain là gì?
 
