@@ -29,7 +29,7 @@
 
   openssl req -new -key ca.key -out ca.csr > tạo file csr
 
-![image-20240911173233268](/home/thinhluc/snap/typora/90/.config/Typora/typora-user-images/image-20240911173233268.png)
+![image-20240911173233268]
   Hệ thống hỏi thì điền thông tin tương tự, phần email và challenge password nhấn Enter để bỏ qua.
 
 ## Pem file là gì ?
