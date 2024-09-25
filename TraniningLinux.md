@@ -4,7 +4,7 @@
 
 ​	SSL là viết tắt của từ Secure Sockets Layer. SSL là tiêu chuẩn của công nghệ bảo mật, truyền thông mã hoá giữa máy chủ Web server và trình duyệt. Tiêu chuẩn này hoạt động và đảm bảo rằng các dữ liệu truyền tải giữa máy chủ và trình duyệt của người dùng đều riêng tư và toàn vẹn. SSL hiện tại cũng là tiêu chuẩn bảo mật cho hàng triệu website trên toàn thế giới, nó bảo vệ dữ liệu truyền đi trên môi trường internet được an toàn. Tuy nhiên SSL đã được thay thế thành TLS nhưng dùng từ "SSL" gọi chung cho cả SSL và TLS
 
-## 	Có bao nhiêu cách chứng thực SSL ?![image](https://github.com/user-attachments/assets/7a548dc8-c0dd-4d60-94fb-76239ef6c621)
+## 	Có bao nhiêu cách chứng thực SSL ?!
 
 
 ​	Trong giao thức SSL/TLS, việc chứng thực (hoặc xác thực) là quá trình xác minh danh tính của các bên liên quan trong một kết nối bảo mật. Có một số cách chứng thực khác nhau, tùy thuộc vào cấu hình và yêu cầu của hệ thống.
